@@ -27,3 +27,11 @@ The Material Design color system uses an organized approach to applying color to
 ## Shape system
 
 ...
+
+## Typography system
+
+...
+
+## Components style
+
+...
