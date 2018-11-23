@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Theming</string>
+    <string name="button">Button</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab1">Tab1</string>
+    <string name="input">Input</string>
 </resources>
