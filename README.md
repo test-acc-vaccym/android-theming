@@ -17,5 +17,9 @@ The Material Design color system uses an organized approach to applying color to
 | colorPrimary  | Color displayed most frequently across your app’s screens and components. The button color is the color primary |
 | colorPrimaryDark  | Color displayed in Status Bar if statusBarColor attribute is not defined. |
 | colorSecondary | Color used in FAB, checkboxes, switches ... |
-
-
+| colorOnPrimary | Color of text and icons in colored components as Buttons and BottomNavigationView. |
+| colorOnSecondary | Color of text and icons in colored secondary components as FAB ... |
+| colorSurface | Color used in CardView Background, Toolbar ... |
+| colorOnSurface | Color used in elements inside surfaces as Toolbar title ... |
+| colorError | Color used to indicate error status. |
+| colorOnError | Color used in text/icons of error messages. |
