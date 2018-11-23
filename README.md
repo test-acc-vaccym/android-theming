@@ -14,4 +14,8 @@ The Material Design color system uses an organized approach to applying color to
 
 | Attribute  | Definition |
 | ------------- | ------------- |
-| ColorPrimary  |  |
+| colorPrimary  | Color displayed most frequently across your app’s screens and components. The button color is the color primary |
+| colorPrimaryDark  | Color displayed in Status Bar if statusBarColor attribute is not defined. |
+| colorSecondary | Color used in FAB, checkboxes, switches ... |
+
+
