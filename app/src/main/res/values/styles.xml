@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Light makes text of action bar black and Light.DarkActionBar makes text white -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+
+        <!-- Main color -->
+        <item name="colorPrimary">@color/purple</item>
+        <!-- If isn't status bar color, the status bar color will be primary dark -->
+        <item name="colorPrimaryDark">@color/purpleDark</item>
+
+        <!-- Status Bar color and windowLightStatusBar true if Status bar is Light and false if it's dark-->
+        <item name="android:statusBarColor">@color/whiteDark</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Color Secondary - Color used in FAB and checkboxes, switches ... -->
+        <item name="colorSecondary">@color/blueDark</item>
+
+        <!--Color On Primary - Color of text and icons color in colored components as Buttons and BottomNavigationView -->
+        <item name="colorOnPrimary">@color/white</item>
+        <!--Color On Seconday - Color of text and icons color in colored Secondary components as FAB... -->
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!--Color Surface - Color used in CardView Background, ... -->
+        <item name="colorSurface">@color/white</item>
+        <!--Color On Surface - Color used in Elements inside Surface ... -->
+        <item name="colorOnSurface">@color/purple</item>
+
+        <item name="colorError">@color/redDark</item>
+        <item name="colorOnError">@color/white</item>
+
+        <item name="bottomNavigationStyle">
+            @style/Widget.MaterialComponents.BottomNavigationView.Colored
+        </item>
+
+        <!-- ActionBarColor Surface or Primary -->
+        <item name="actionBarStyle">
+            @style/Widget.MaterialComponents.ActionBar.Surface
+        </item>
+    </style>
+
+</resources>
