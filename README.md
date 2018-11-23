@@ -8,8 +8,7 @@ The Material Design color system uses an organized approach to applying color to
 
 ### Usage
 
-    ```xml
+    
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
     </style>
-    ```
     
