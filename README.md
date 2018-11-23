@@ -23,3 +23,7 @@ The Material Design color system uses an organized approach to applying color to
 | colorOnSurface | Color used in elements inside surfaces as Toolbar title ... |
 | colorError | Color used to indicate error status. |
 | colorOnError | Color used in text/icons of error messages. |
+
+## Shape system
+
+...
