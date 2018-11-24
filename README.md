@@ -1,6 +1,12 @@
-# Material Components - Android Theming
+# Material Components - Theming
 
 Material Theming refers to the customization of your Material Design app to reflect your product’s brand
+
+    dependencies {
+        ...
+        implementation 'com.google.android.material:material:1.1.0-alpha01'
+        ...
+    }
 
 ## Color system
 
@@ -9,6 +15,8 @@ The Material Design color system uses an organized approach to applying color to
 ### Usage
 ```xml
 <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+  <item name="colorPrimary">...</item>
+  ...
 </style>
 ```
 
@@ -23,6 +31,8 @@ The Material Design color system uses an organized approach to applying color to
 | colorOnSurface | Color used in elements inside surfaces as Toolbar title ... |
 | colorError | Color used to indicate error status. |
 | colorOnError | Color used in text/icons of error messages. |
+
+![alt text](https://github.com/serbelga/android-theming/blob/master/screenshots/color_system.jpg)
 
 ## Shape system
 
