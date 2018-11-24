@@ -40,7 +40,25 @@ The Material Design color system uses an organized approach to applying color to
 
 ## Typography system
 
-...
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        ...
+        <item name="textAppearanceHeadline1">
+            @style/Headline1Text
+        </item>
+
+        <item name="textAppearanceButton">
+            @style/ButtonText
+        </item>
+        ...
+    </style>
+
+    <style name="ButtonText" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Headline1Text" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
 
 ## Components style
 
