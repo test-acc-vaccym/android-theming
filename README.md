@@ -61,6 +61,8 @@ The Material Design color system uses an organized approach to applying color to
 </style>
 ```
 
+![alt text](https://github.com/serbelga/android-theming/blob/master/screenshots/typo.png)
+
 ## Components style
 
 ...
