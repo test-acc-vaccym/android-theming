@@ -24,7 +24,7 @@ The Material Design color system uses an organized approach to applying color to
 | colorError | Color used to indicate error status. |
 | colorOnError | Color used in text/icons of error messages. |
 
-[!alt text](https://github.com/serbelga/android-theming/blob/master/screenshots/color_system.jpg)
+![alt text](https://github.com/serbelga/android-theming/blob/master/screenshots/color_system.jpg)
 
 ## Shape system
 
