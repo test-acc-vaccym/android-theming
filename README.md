@@ -43,7 +43,7 @@ The Material Design color system uses an organized approach to applying color to
 ```xml
 <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
     ...
-    <item name="textAppearanceHeadline1"
+    <item name="textAppearanceHeadline1">
           @style/Headline1Text
     </item>
     <item name="textAppearanceButton">
