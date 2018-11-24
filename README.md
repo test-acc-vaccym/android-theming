@@ -2,11 +2,13 @@
 
 Material Theming refers to the customization of your Material Design app to reflect your product’s brand
 
-dependencies {
-    ...
-    implementation 'com.google.android.material:material:1.1.0-alpha01'
-    ...
-}
+    ```
+    dependencies {
+        ...
+        implementation 'com.google.android.material:material:1.1.0-alpha01'
+        ...
+    }
+    ```
 
 ## Color system
 
