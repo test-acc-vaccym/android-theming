@@ -2,6 +2,12 @@
 
 Material Theming refers to the customization of your Material Design app to reflect your product’s brand
 
+dependencies {
+    ...
+    implementation 'com.google.android.material:material:1.1.0-alpha01'
+    ...
+}
+
 ## Color system
 
 The Material Design color system uses an organized approach to applying color to your UI. In this system, two theme colors are selected to express different parts of a UI: a primary color and a secondary color. Material components use these theme colors and their variations to style their individual backgrounds, text, and more.
